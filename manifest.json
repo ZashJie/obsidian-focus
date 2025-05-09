@@ -1,7 +1,7 @@
 {
 	"id": "focus-bank",
 	"name": "Focus Bank",
-	"version": "0.2.0",
+	"version": "1.0.4",
 	"minAppVersion": "0.15.0",
 	"description": "A scientifically-based focus enhancement plugin. Features random 10-second eye-rest reminders every 3-5 minutes and 20-minute breaks after 90 minutes of focus, designed to improve concentration, memory, and information integration abilities.",
 	"author": "Mist",
