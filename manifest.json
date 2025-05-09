@@ -1,10 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "focusBank",
+	"name": "focusBank",
+	"version": "0.2.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
+	"description": "A scientifically-based focus enhancement plugin. Features random 10-second eye-rest reminders every 3-5 minutes and 20-minute breaks after 90 minutes of focus, designed to improve concentration, memory, and information integration abilities.",
+	"author": "Mist",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
